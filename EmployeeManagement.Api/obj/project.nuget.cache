@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gp4Zt0sEQ+4=",
+  "success": true,
+  "projectFilePath": "/Users/raisahmad/WorkingFolder/Webapiwithcore/webapiwithcore/EmployeeManagement.Api/EmployeeManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/raisahmad/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
