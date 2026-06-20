@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Gp4Zt0sEQ+4=",
+  "dgSpecHash": "En6eW8J524g=",
   "success": true,
   "projectFilePath": "/Users/raisahmad/WorkingFolder/Webapiwithcore/webapiwithcore/EmployeeManagement.Api/EmployeeManagement.Api.csproj",
   "expectedPackageFiles": [
     "/Users/raisahmad/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "/Users/raisahmad/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/Users/raisahmad/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/swashbuckle.aspnetcore/6.7.0/swashbuckle.aspnetcore.6.7.0.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/swashbuckle.aspnetcore.swagger/6.7.0/swashbuckle.aspnetcore.swagger.6.7.0.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.7.0/swashbuckle.aspnetcore.swaggergen.6.7.0.nupkg.sha512",
+    "/Users/raisahmad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.7.0/swashbuckle.aspnetcore.swaggerui.6.7.0.nupkg.sha512"
   ],
   "logs": []
 }

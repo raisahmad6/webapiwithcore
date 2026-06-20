@@ -19,6 +19,5 @@ public class EmployeeController : ControllerBase
             new { Id = 2, Name = "David" }
         });
     }
-
 }
 }
